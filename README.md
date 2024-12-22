@@ -24,7 +24,6 @@ It integrates with Arduino to send control commands to the drone.
 
 ## Installation and Setup
 ### Prerequisites
-1. Python 3.x installed.
+1. Python 3.10 installed.
 2. Install required libraries:
-   ```bash
-   pip install opencv-python mediapipe pyzbar pyserial numpy
+**pip install opencv-python opencv-contrib-python imutils mediapipe pyzbar pyserial numpy**
