@@ -48,9 +48,6 @@ It integrates with Arduino to send control commands to the drone.
 3. Use your hand to move the drone in different directions.
 4. Show the QR code "Land Here For Charge Your Drone" to trigger landing.
 
-## Example Images
-![Hand Gesture Detection]([/Hand-Gesture-Drone-And-Wireless-Charging-Station/Architecture Diagram.jpeg])
-
 ## Troubleshooting
 1. Ensure that the correct COM port is specified for the Arduino in the script.
 2. Check that all required libraries are installed.
