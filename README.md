@@ -34,10 +34,10 @@ It integrates with Arduino to send control commands to the drone.
 2. Determines movement direction (left, right, up, down) based on the change in hand position.
 3. Sends corresponding commands to the Arduino.
 
-###QR Code Detection
+### QR Code Detection
 1. Detects QR codes in the video feed using pyzbar.
 2. If a QR code with the message "Land Here For Charge Your Drone" is detected, the system triggers the landing command.
 
-###Arduino Communication
+### Arduino Communication
 1. Commands are sent to the Arduino via serial communication.
 2. Arduino processes these commands to control the drone.
