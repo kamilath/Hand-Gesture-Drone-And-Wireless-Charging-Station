@@ -49,7 +49,7 @@ It integrates with Arduino to send control commands to the drone.
 4. Show the QR code "Land Here For Charge Your Drone" to trigger landing.
 
 ## Example Images
-![Hand Gesture Detection]([https://github.com/kamilath/Hand-Gesture-Drone-And-Wireless-Charging-Station/blob/main/01_camera.py])
+![Hand Gesture Detection]([[https://github.com/kamilath/Hand-Gesture-Drone-And-Wireless-Charging-Station/blob/main/01_camera.py](https://github.com/kamilath/Hand-Gesture-Drone-And-Wireless-Charging-Station/blob/main/Gesture%20Output.png)])
 
 ## Troubleshooting
 1. Ensure that the correct COM port is specified for the Arduino in the script.
