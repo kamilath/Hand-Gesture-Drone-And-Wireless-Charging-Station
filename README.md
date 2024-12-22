@@ -41,3 +41,26 @@ It integrates with Arduino to send control commands to the drone.
 ### Arduino Communication
 1. Commands are sent to the Arduino via serial communication.
 2. Arduino processes these commands to control the drone.
+
+## Usage
+1. Connect your webcam and Arduino to your computer.
+2. Run the script as described in the installation steps.
+3. Use your hand to move the drone in different directions.
+4. Show the QR code "Land Here For Charge Your Drone" to trigger landing.
+
+## Example Images
+![Hand Gesture Detection](images/hand_gesture.png)
+
+## Troubleshooting
+1. Ensure that the correct COM port is specified for the Arduino in the script.
+2. Check that all required libraries are installed.
+3. Verify the webcam and Arduino connections.
+
+## Future Enhancements
+1. Add support for multiple hand gestures for additional commands.
+2. Integrate real-time obstacle avoidance.
+3. Extend functionality to work with other drones and platforms.
+
+## Acknowledgments
+1. MediaPipe for their robust hand tracking library.
+2. pyzbar for easy QR code detection.
