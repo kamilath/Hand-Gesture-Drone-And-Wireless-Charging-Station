@@ -28,8 +28,8 @@ It integrates with Arduino to send control commands to the drone.
 2. Install required libraries:
 **pip install opencv-python opencv-contrib-python imutils mediapipe pyzbar pyserial numpy**
 3. An Arduino board connected to the appropriate COM port.
-##How It Works
-###Hand Gesture Detection
+## How It Works
+### Hand Gesture Detection
 1. Uses MediaPipe to detect hand landmarks and calculates the center of the hand bounding box.
 2. Determines movement direction (left, right, up, down) based on the change in hand position.
 3. Sends corresponding commands to the Arduino.
