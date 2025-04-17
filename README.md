@@ -58,6 +58,7 @@ It integrates with Arduino to send control commands to the drone.
 2. Integrate real-time obstacle avoidance.
 3. Extend functionality to work with other drones and platforms.
 
-## Acknowledgments
-1. MediaPipe for their robust hand tracking library.
-2. pyzbar for easy QR code detection.
+## 🙌 Acknowledgments
+- MediaPipe for their robust hand tracking library.
+- pyzbar for easy QR code detection.
+- Special thanks to [@gkarthik29](https://github.com/gkarthik29) – my project partner on this amazing build!
