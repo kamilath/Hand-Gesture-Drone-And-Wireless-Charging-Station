@@ -4,6 +4,13 @@ This project enables control of a drone using hand gestures tracked via a webcam
 The system employs computer vision, MediaPipe for hand tracking, and pyzbar for QR code recognition. 
 
 It integrates with Arduino to send control commands to the drone.
+## 👥 Team
+
+This project was developed by:
+
+- [@gkarthik29](https://github.com/gkarthik29)
+- [@kamilath](https://github.com/kamilath)
+
 
 ## Features
 - **Hand Gesture Control:** Detects hand movements to command the drone to move up, down, left, or right.
